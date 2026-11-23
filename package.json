@@ -1,0 +1,26 @@
+{
+  "name": "node-js-zli",
+  "version": "1.0.0",
+  "description": "Repository für Node-JS im ZLI",
+  "homepage": "https://github.com/Teodor-MRK/Node-JS-ZLI#readme",
+  "bugs": {
+    "url": "https://github.com/Teodor-MRK/Node-JS-ZLI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teodor-MRK/Node-JS-ZLI.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "weather-stats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.21.1",
+    "dotenv": "^18.0.10",
+    "fs": "^0.0.1-security",
+    "require": "^2.4.20"
+  }
+}
